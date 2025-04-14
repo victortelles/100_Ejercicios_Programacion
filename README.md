@@ -4,9 +4,11 @@
 Este repositorio se creó con el objetivo de tener archivados los ejercicios de programación que encontraré por internet para poner a prueba y mejorar mi lógica de programación sin depender de la `IA` o `herramientas de autocompletado` de código *(Copilot, Agentes IA, etc)*. El enfoque es progresivo, comenzando con ejercicios simples hasta alcanzar un nivel de complejidad avanzado.
 
 ## Tecnología
-Para iniciar este proyecto, utilizaré `Python` como lenguaje principal debido a su intérprete simple y sintaxis limpia, lo que permite enfocarme en la lógica de programación más que en complejidades sintácticas.
+> [!NOTE]
+> Para iniciar este proyecto, utilizaré `Python (3.10.11)` como lenguaje principal debido a su intérprete simple y sintaxis limpia, lo que permite enfocarme en la lógica de programación más que en complejidades sintácticas.
 
-Pero si decides utilizar otro lenguaje de programacion adelante, eres libre con el que te sientas mas comodo o tengas mas dominio.
+> [!NOTE]
+> Pero si decides utilizar otro lenguaje de programacion adelante, eres libre con el que te sientas mas comodo o tengas mas dominio.
 
 ## Reglas
 - No utilizar ninguna herramienta de autocompletado de código
