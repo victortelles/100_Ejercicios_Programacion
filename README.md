@@ -5,17 +5,18 @@ Este repositorio se creó con el objetivo de tener archivados los ejercicios de 
 
 ## Tecnología
 > [!NOTE]
-> Para iniciar este proyecto, utilizaré `Python (3.10.11)` como lenguaje principal debido a su intérprete simple y sintaxis limpia, lo que permite enfocarme en la lógica de programación más que en complejidades sintácticas.
+> Para iniciar este reto, utilizaré `Python (3.10.11)` como lenguaje principal debido a su intérprete simple y sintaxis limpia, lo que permite enfocarme en la lógica de programación más que en complejidades sintácticas.
 
 > [!NOTE]
 > Pero si decides utilizar otro lenguaje de programacion adelante, eres libre con el que te sientas mas comodo o tengas mas dominio.
 
 ## Reglas
-- No utilizar ninguna herramienta de autocompletado de código
-- No utilizar Inteligencia Artificial para generar soluciones
-- Resolver cada ejercicio de manera manual.
-- Documentar el proceso (Opcional)
-- Implementar al menos una solución alternativa por cada ejercicio resuelto
+> [!IMPORTANT]
+> - No utilizar ninguna herramienta de autocompletado de código
+> - No utilizar Inteligencia Artificial para generar soluciones
+> - Resolver cada ejercicio de manera manual.
+> - Documentar el proceso (Opcional)
+> - Implementar al menos una solución alternativa por cada ejercicio resuelto
 
 ## Referencia para ejercicios
 Se utilizará como referencia principal la plataforma de ejercicios disponible en [retosdeprogramacion.com](https://retosdeprogramacion.com/ejercicios/) creada por MoureDev.
